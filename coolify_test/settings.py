@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-xs$vb&h27=h1&32bs@zjsw26w!(raz^5n0aq9a-mk1q9h&nxz)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'sgcscssk04gks8kg44okko80.111.92.21.59.sslip.io']
+ALLOWED_HOSTS = ['localhost', 'sgcscssk04gks8kg44okko80.111.92.21.59.sslip.io','coolify-test-production.up.railway.app']
 
 
 # Application definition
